@@ -1,0 +1,3 @@
+>=x11-wm/enlightenment-0.19.4 ~amd64
+>=dev-libs/efl-1.13.1 ~amd64
+>=x11-terms/terminology-1.0.0 ~amd64

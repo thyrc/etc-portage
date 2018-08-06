@@ -1,0 +1,2 @@
+-video_cards_i965
+-video_cards_intel

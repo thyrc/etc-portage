@@ -1,0 +1,4 @@
+# app-i18n/ibus gtk -emoji
+>=x11-libs/libxcb-1.12 xkb
+>=dev-lang/python-3.4.5 sqlite
+app-i18n/ibus gtk -emoji -libnotify

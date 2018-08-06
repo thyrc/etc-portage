@@ -1,0 +1,4 @@
+# dev-lang/rust system-rust system-llvm
+# dev-util/cargo system-cargo
+# >=dev-lang/rust-1.25.0 doc extended jemalloc system-rust -system-llvm -rust_tools_clippy-driver -rust_tools_miri -rust_tools_rustdoc
+>=dev-lang/rust-1.25.0 doc extended -jemalloc system-rust system-llvm

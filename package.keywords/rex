@@ -1,0 +1,3 @@
+>=app-admin/rex-1.4.1 ~amd64
+dev-perl/String-Escape ~amd64
+=dev-perl/IPC-Shareable-0.610.0-r1 ~amd64

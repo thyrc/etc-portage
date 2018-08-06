@@ -1,0 +1,2 @@
+# move net-misc/openconnect net-vpn/openconnect
+net-vpn/openconnect -gnutls

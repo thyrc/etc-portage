@@ -1,0 +1,4 @@
+dev-java/icedtea -source
+dev-java/icedtea-bin -alsa -cups -source -webstart
+sys-apps/elfix -ptpax
+dev-python/pypax -ptpax
