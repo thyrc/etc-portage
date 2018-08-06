@@ -16,8 +16,8 @@ save_configure() {
 }
 
 save_rust_distfiles() {
-    printf "\n EBUILD_PHASE=$EBUILD_PHASE : Package %s/%s (%s) \n\n" ${CATEGORY} ${PN} ${T}
-    echo -e "\n ## Extracting rust distribution archives ... ##\n\n"
+    # printf "\n EBUILD_PHASE=$EBUILD_PHASE : Package %s/%s (%s) \n" ${CATEGORY} ${PN} ${S}
+    echo -e "\n## Extracting rust distribution archives ... ##\n"
     [[ ! -e /tmp/dist ]] && mkdir /tmp/dist
     [[ -d /tmp/dist ]] && find "${S}/build/dist/" -type f -name '*.tar.xz' -exec cp {} /tmp/dist \;
 }
