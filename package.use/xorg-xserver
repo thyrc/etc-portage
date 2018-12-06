@@ -1,1 +1,1 @@
->=x11-base/xorg-server-1.19.2 glamor
+>=x11-base/xorg-server-1.19.2 glamor -suid

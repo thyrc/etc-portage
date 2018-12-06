@@ -1,1 +1,1 @@
-media-video/ffmpeg bs2b encode ladspa libass mp3 openssl theora vorbis x264 xvid
+media-video/ffmpeg bs2b encode ladspa libass mp3 openssl theora vaapi vorbis vpx x264 xvid

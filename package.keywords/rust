@@ -1,3 +1,1 @@
 >=dev-lang/rust-1.21.0 ~amd64
-
-=dev-libs/jemalloc-4.5.0 ~amd64

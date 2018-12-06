@@ -1,1 +1,1 @@
-dev-db/mariadb client-libs -backup
+dev-db/mariadb -backup
