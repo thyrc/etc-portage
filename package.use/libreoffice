@@ -1,2 +1,2 @@
-app-office/libreoffice -branding pdfimport
+app-office/libreoffice -branding
 >=dev-libs/xmlsec-1.2.24-r1 nss

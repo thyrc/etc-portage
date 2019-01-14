@@ -1,1 +1,1 @@
-net-misc/tigervnc server gnutls
+net-misc/tigervnc gnutls server
