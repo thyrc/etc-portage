@@ -1,4 +1,4 @@
->=dev-libs/efl-1.13.1 drm egl fribidi gif glib gles gstreamer harfbuzz ibus luajit physics sound svg tiff webp xim xpm -opengl -sdl
+>=dev-libs/efl-1.13.1 drm egl fribidi gif glib gles gles2 gstreamer harfbuzz ibus luajit physics sound svg tiff webp xim xpm -opengl -sdl
 >=sys-libs/zlib-1.2.11 minizip
 
 >=x11-wm/enlightenment-0.22.1-r1 -udev -enlightenment_modules_wl-buffer -enlightenment_modules_wl-desktop-shell -enlightenment_modules_wl-drm -enlightenment_modules_wl-text-input -enlightenment_modules_wl-weekeyboard -enlightenment_modules_wl-wl -enlightenment_modules_wl-x11 -enlightenment_modules_xwayland
