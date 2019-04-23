@@ -1,1 +1,1 @@
-net-analyzer/wireshark gtk tfshark -netlink
+net-analyzer/wireshark qt5 tfshark -netlink
