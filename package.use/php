@@ -1,2 +1,2 @@
 >=app-eselect/eselect-php-0.9.4-r5 fpm
-dev-lang/php fpm gd
+dev-lang/php cli fpm gd mysqli

@@ -1,2 +1,2 @@
 >=dev-python/awscli-1.15.10 ~amd64
-=dev-python/botocore-1.12.81 ~amd64
+=dev-python/botocore-1.12.210 ~amd64
