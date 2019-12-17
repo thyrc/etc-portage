@@ -1,7 +1,2 @@
 >=www-client/firefox-57.0 ~amd64
-=dev-libs/nss-3.46 ~amd64
-=dev-libs/nspr-4.22 ~amd64
-=dev-util/cbindgen-0.9.0 ~amd64
-=media-libs/libvpx-1.7.0 ~amd64
-=dev-libs/nspr-4.21 ~amd64
-=media-libs/harfbuzz-2.5.3 ~amd64
+=dev-libs/nspr-4.24 ~amd64

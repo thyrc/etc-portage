@@ -1,1 +1,1 @@
-www-client/firefox -system-icu
+www-client/firefox -lto -system-icu

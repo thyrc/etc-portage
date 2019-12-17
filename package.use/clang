@@ -1,1 +1,2 @@
 sys-devel/llvm gold clang
+sys-devel/clang-runtime -sanitize

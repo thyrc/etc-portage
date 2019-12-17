@@ -1,2 +1,4 @@
 dev-lang/rust::gentoo
-=net-fs/nfs-utils-2.3.3::gentoo
+=dev-libs/libffi-3.3_rc0:0/7::gentoo
+=virtual/libffi-3.3_rc0:0/7::gentoo
+=sys-devel/clang-8.0.1:8::gentoo
