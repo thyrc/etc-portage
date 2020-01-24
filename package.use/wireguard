@@ -1,1 +1,2 @@
-net-vpn/wireguard -module
+# move net-vpn/wireguard virtual/wireguard
+virtual/wireguard -module

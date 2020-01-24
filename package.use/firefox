@@ -1,2 +1,2 @@
-www-client/firefox eme-free lto pulseaudio system-harfbuzz system-icu system-jpeg system-libevent system-sqlite
+www-client/firefox clang eme-free pulseaudio system-harfbuzz system-icu system-jpeg system-libevent system-sqlite
 media-plugins/alsa-plugins pulseaudio
