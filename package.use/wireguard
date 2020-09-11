@@ -1,2 +1,1 @@
-# move net-vpn/wireguard virtual/wireguard
-virtual/wireguard -module
+net-vpn/wireguard-tools -wg-quick

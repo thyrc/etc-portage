@@ -1,0 +1,2 @@
+>=dev-lang/rust-1.21.0 ~amd64
+>=virtual/rust-1.41.1 ~amd64

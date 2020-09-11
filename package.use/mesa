@@ -1,1 +1,1 @@
-media-libs/mesa gles1 gles2
+media-libs/mesa gles1 gles2 -libglvnd

@@ -1,7 +1,7 @@
 case "$EBUILD_PHASE" in
     preinst )
         save_configure
-	[[ "${CATEGORY}/${PN}" == "dev-lang/rust" ]] && save_rust_distfiles
+	# [[ "${CATEGORY}/${PN}" == "dev-lang/rust" ]] && save_rust_distfiles
         ;;
     * )
         :
