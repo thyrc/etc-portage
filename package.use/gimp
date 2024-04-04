@@ -1,3 +1,4 @@
 media-gfx/gimp heif
 >=media-libs/gegl-0.4.14 cairo
 >=app-text/poppler-0.74.0 cairo
+

@@ -1,2 +1,4 @@
-<dev-lang/rust-1.41.0 clippy doc rls rustfmt system-rust wasm -system-llvm llvm_targets_WebAssembly
->=dev-lang/rust-1.41.0 clippy doc rls rustfmt system-bootstrap -system-llvm wasm llvm_targets_WebAssembly
+# <dev-lang/rust-1.41.0 clippy doc rls rustfmt system-rust wasm -system-llvm llvm_targets_WebAssembly
+# >=dev-lang/rust-1.41.0 clippy doc rls rust-src rustfmt system-bootstrap -system-llvm wasm llvm_targets_WebAssembly
+# =dev-lang/rust-1.60.0 clippy -doc rls rust-src rustfmt system-bootstrap -system-llvm wasm llvm_targets_WebAssembly
+>=dev-lang/rust-1.74.0 clippy -doc llvm-libunwind rls rust-analyzer rust-src rustfmt system-bootstrap system-llvm -wasm -llvm_targets_WebAssembly

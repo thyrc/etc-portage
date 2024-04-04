@@ -1,1 +1,2 @@
-media-libs/mesa gles1 gles2 -libglvnd
+media-libs/mesa gles1 gles2 -vulkan -libglvnd
+>=media-libs/mesa-23.3.2 gles1 gles2 vulkan

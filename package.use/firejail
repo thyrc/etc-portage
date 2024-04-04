@@ -1,1 +1,1 @@
-sys-apps/firejail suid
+sys-apps/firejail -dbusproxy

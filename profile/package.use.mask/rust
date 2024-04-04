@@ -1,1 +1,1 @@
-dev-lang/rust -extended -doc
+dev-lang/rust -extended -doc -llvm-libunwind -system-bootstrap

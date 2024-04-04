@@ -1,1 +1,2 @@
-app-emulation/wine-vanilla -udisks
+app-emulation/wine-vanilla crossdev-mingw -unwind
+>=media-libs/libsdl2-2.28.3 haptic

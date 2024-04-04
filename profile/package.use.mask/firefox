@@ -1,1 +1,1 @@
-www-client/firefox -lto -system-icu
+www-client/firefox -clang -lto -system-icu

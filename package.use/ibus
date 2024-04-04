@@ -1,5 +1,5 @@
 # app-i18n/ibus gtk -emoji
 >=x11-libs/libxcb-1.12 xkb
 >=dev-lang/python-3.4.5 sqlite
-app-i18n/ibus gtk -emoji -libnotify
+app-i18n/ibus gtk3 -emoji -libnotify -gtk4
 app-i18n/mozc ibus renderer

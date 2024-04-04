@@ -1,2 +1,2 @@
-app-office/libreoffice -branding
+app-office/libreoffice gtk -branding
 >=dev-libs/xmlsec-1.2.24-r1 nss

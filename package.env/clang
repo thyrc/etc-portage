@@ -1,0 +1,23 @@
+sys-devel/llvm compiler-clang.conf
+sys-libs/libcxx compiler-clang.conf
+sys-libs/libcxxabi compiler-clang.conf
+sys-libs/compiler-rt compiler-clang.conf
+sys-libs/compiler-rt-sanitizers compiler-clang.conf
+sys-libs/llvm-libunwind compiler-clang.conf
+sys-devel/lld compiler-clang.conf
+sys-devel/clang compiler-clang.conf
+sys-libs/libomp compiler-clang.conf
+sys-devel/llvmgold compiler-clang.conf
+
+media-libs/mesa compiler-clang-mesa.conf
+>=media-libs/mesa-23.3.2 compiler-clang.conf
+www-client/firefox compiler-clang.conf
+dev-util/spirv-tools compiler-clang.conf
+dev-util/spirv-llvm-translator compiler-clang.conf
+dev-libs/libclc compiler-clang.conf
+>=dev-util/intel_clc-23.3.2 compiler-clang.conf
+dev-util/spirv-headers compiler-clang.conf
+media-libs/shaderc compiler-clang.conf
+dev-util/glslang compiler-clang.conf
+
+dev-lang/rust compiler-clang.conf

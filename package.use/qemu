@@ -1,1 +1,1 @@
-app-emulation/qemu sdl sdl2 usb
+app-emulation/qemu opengl pipewire sdl sdl2 usb virgl -doc

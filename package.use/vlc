@@ -1,1 +1,2 @@
 media-video/vlc mp3 ogg opus qt5 libass vaapi vorbis vpx -png
+sys-libs/zlib minizip

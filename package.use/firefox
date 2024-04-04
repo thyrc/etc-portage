@@ -1,2 +1,1 @@
-www-client/firefox -clang -dbus eme-free hardened pulseaudio system-harfbuzz system-icu system-jpeg system-libevent system-sqlite
-media-plugins/alsa-plugins pulseaudio
+www-client/firefox dbus openh264

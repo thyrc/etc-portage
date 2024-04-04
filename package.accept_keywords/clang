@@ -1,0 +1,25 @@
+# =sys-devel/llvm-17.0.6 ~amd64
+# sys-devel/llvm-toolchain-symlinks:17 ~amd64
+# =sys-devel/lld-17.0.6 ~amd64
+# sys-devel/lld-toolchain-symlinks:17 ~amd64
+# =sys-devel/clang-17.0.6 ~amd64
+# sys-devel/clang-toolchain-symlinks:17 ~amd64
+# =sys-libs/compiler-rt-17.0.6 ~amd64
+# =sys-devel/clang-runtime-17.0.6 ~amd64
+# 
+# =sys-devel/llvm-common-17.0.6 ~amd64
+# =sys-libs/libcxx-17.0.6 ~amd64
+# =sys-libs/libcxxabi-17.0.6 ~amd64
+# =sys-libs/libomp-17.0.6 ~amd64
+# =sys-devel/llvmgold-17 ~amd64
+# 
+# =sys-libs/compiler-rt-sanitizers-17.0.6 ~amd64
+# =sys-libs/llvm-libunwind-17.0.6 ~amd64
+# 
+# =dev-libs/libclc-17.0.6 ~amd64
+# dev-util/spirv-llvm-translator:17 ~amd64
+
+dev-util/spirv-headers ~amd64
+dev-util/spirv-tools ~amd64
+media-libs/shaderc ~amd64
+dev-util/glslang ~amd64

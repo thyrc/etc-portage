@@ -1,3 +1,0 @@
->=dev-python/awscli-1.16.233-r1 ~amd64
->=dev-python/botocore-1.12.223 ~amd64
->=dev-python/s3transfer-0.3.1 ~amd64

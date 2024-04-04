@@ -1,1 +1,2 @@
-media-gfx/imagemagick heif
+media-gfx/imagemagick heif webp
+>=media-libs/libheif-1.12.0-r1 x265

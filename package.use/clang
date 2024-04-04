@@ -1,2 +1,1 @@
-sys-devel/llvm gold clang
-sys-devel/clang-runtime -sanitize
+sys-devel/clang-common default-libcxx default-lld

@@ -1,1 +1,1 @@
-net-im/pidgin gtk -gstreamer
+net-im/pidgin gtk sasl -gstreamer

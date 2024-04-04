@@ -1,6 +1,0 @@
-# =sys-libs/compiler-rt-9.0.0-r1 ~amd64
-# =sys-devel/llvmgold-9 ~amd64
-# =sys-libs/libomp-9.0.0 ~amd64
-# =sys-devel/llvm-9.0.0 ~amd64
-# =sys-devel/clang-9.0.0 ~amd64
-# =sys-devel/clang-runtime-9.0.0 ~amd64
